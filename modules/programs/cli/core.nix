@@ -11,7 +11,7 @@
     ripgrep
     fd
     bat
-    lsd
+    eza
     jq
     zoxide
     fzf
