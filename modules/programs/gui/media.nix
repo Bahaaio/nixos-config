@@ -13,5 +13,6 @@
     mpv
     loupe
     celluloid
+    parabolic
   ];
 }
