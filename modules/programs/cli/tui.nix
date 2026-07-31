@@ -10,9 +10,11 @@
     lazygit
     lazydocker
     opencode
+    codex
 
     nitch
     tty-clock
     fastfetch
+    dwt1-shell-color-scripts # colorscript -l
   ];
 }

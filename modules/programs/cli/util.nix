@@ -6,6 +6,7 @@
     tokei
     tesseract
     openssl
+    exercism
     playerctl
     brightnessctl
     nix-output-monitor
