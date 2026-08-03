@@ -3,9 +3,6 @@
 {
   environment.systemPackages = with pkgs; [
     gcc
-    clang
-    cmake
-    gnumake
     jdk
     maven
     go
