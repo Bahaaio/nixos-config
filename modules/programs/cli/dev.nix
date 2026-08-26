@@ -11,6 +11,7 @@
     nodejs
     typst
     cargo
+    postgresql
   ];
 
   environment.sessionVariables = {
