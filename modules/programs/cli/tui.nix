@@ -10,7 +10,7 @@
     lazygit
     lazydocker
     opencode
-    codex
+    antigravity-cli
 
     nitch
     tty-clock
