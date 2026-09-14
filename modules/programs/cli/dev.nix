@@ -12,6 +12,7 @@
     typst
     cargo
     postgresql
+    sqlite-interactive
   ];
 
   environment.sessionVariables = {
