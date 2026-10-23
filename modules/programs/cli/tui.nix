@@ -5,7 +5,6 @@
     inputs.pomo.packages.${pkgs.stdenv.hostPlatform.system}.default
     gdu
     btop
-    impala
     bluetui
     lazygit
     lazydocker
