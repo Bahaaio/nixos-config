@@ -19,7 +19,6 @@
     gnome-weather
     gnome-calculator
 
-    proton-vpn
     ticktick
     inputs.zen-browser.packages.${pkgs.stdenv.hostPlatform.system}.default
   ];

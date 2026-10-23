@@ -15,4 +15,6 @@
       "1.0.0.1"
     ];
   };
+
+  services.cloudflare-warp.enable = true;
 }
