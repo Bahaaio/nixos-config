@@ -5,7 +5,7 @@
     isNormalUser = true;
     description = "Bahaa Mohamed";
     extraGroups = [
-      "netowrkmanager"
+      "networkmanager"
       "wheel"
       "libvirtd"
       "micled" # allow controlling mic-mute LED
