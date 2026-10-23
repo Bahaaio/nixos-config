@@ -15,6 +15,7 @@
     kitty
     nautilus
 
+    gnome-control-center
     gnome-text-editor
     gnome-weather
     gnome-calculator
