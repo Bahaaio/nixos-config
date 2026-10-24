@@ -8,5 +8,6 @@
     ./tui.nix
     ./yazi.nix
     ./neovim.nix
+    ./lsp.nix
   ];
 }

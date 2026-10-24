@@ -6,6 +6,7 @@
     jdk
     maven
     go
+    gotools
     dotnet-sdk_10
     dotnet-ef
     nodejs
