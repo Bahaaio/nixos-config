@@ -1,5 +1,3 @@
-{ ... }:
-
 {
   users.users.bahaa = {
     isNormalUser = true;
