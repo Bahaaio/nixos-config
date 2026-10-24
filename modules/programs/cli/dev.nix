@@ -11,7 +11,6 @@
     dotnet-ef
     nodejs
     typst
-    cargo
     postgresql
     sqlite-interactive
   ];
