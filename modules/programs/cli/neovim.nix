@@ -8,6 +8,5 @@
     nixfmt
     lua5_1
     luarocks
-    ueberzugpp
   ];
 }
