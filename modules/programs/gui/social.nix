@@ -3,7 +3,7 @@
 {
   environment.systemPackages = with pkgs; [
     vesktop
-    zapzap
+    zapfast
     telegram-desktop
   ];
 }
