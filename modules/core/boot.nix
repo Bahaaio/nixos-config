@@ -10,13 +10,13 @@
 
     # silent boot
     consoleLogLevel = 3;
-    initrd.verbose = false;
     kernelParams = [
       "quiet"
-      "udev.log_level=3"
-      "systemd.show_status=auto"
+      "rd.udev.log_level=3"
+      "rd.systemd.show_status=auto"
     ];
 
+    # disable fnlock
     extraModprobeConfig = "options asus_wmi fnlock_default=N";
   };
 }
