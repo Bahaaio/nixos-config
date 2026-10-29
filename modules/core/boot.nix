@@ -13,7 +13,7 @@
     kernelParams = [
       "quiet"
       "rd.udev.log_level=3"
-      "rd.systemd.show_status=auto"
+      "systemd.show_status=auto"
     ];
 
     # disable fnlock
