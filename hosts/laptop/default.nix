@@ -9,7 +9,6 @@
 
     ../../modules/desktop
     ../../modules/desktop/hyprland.nix
-    ../../modules/desktop/i3.nix
 
     ../../modules/programs/cli
     ../../modules/programs/gui
