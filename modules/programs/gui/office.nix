@@ -5,6 +5,7 @@
     papers
     zathura
     # obsidian
-    libreoffice
+    wordcraft
+    deckcraft
   ];
 }
