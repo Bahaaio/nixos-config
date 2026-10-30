@@ -2,7 +2,7 @@
 
 {
   imports = [
-    ./sddm.nix
+    ./ly.nix
     ./power.nix
     ./audio.nix
     ./network.nix
