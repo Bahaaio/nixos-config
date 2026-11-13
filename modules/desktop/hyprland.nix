@@ -7,6 +7,13 @@
     xwayland.enable = true;
   };
 
+  xdg.portal = {
+    config.hyprland.default = [
+      "gtk"
+      "hyprland"
+    ];
+  };
+
   environment.systemPackages = with pkgs; [
     # hypr ecosystem
     hypridle
