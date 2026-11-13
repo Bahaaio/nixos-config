@@ -3,18 +3,15 @@
 {
   environment.systemPackages = with pkgs; [
     gcc
-    jdk
+    jdk25
     maven
     go
     gotools
+    uv
     nodejs
     pnpm
     typst
     postgresql
     sqlite-interactive
   ];
-
-  environment.sessionVariables = {
-    JAVA_HOME = "${pkgs.jdk}";
-  };
 }
